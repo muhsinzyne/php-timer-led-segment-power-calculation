@@ -16,7 +16,9 @@ This README would normally document whatever steps are necessary to get your app
 ### How do I get set up? ###
 
 * Clone the repository in your apache public_html directory 
-* Run -- composer install     to load composer.json dependencies 
+```
+composer install
+```
 
 ### How do I Run this script? ###
 * Open in any of the browser and run Base URL append by  /min  example http://localhost/test-segment
