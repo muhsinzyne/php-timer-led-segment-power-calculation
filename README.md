@@ -23,6 +23,7 @@ This README would normally document whatever steps are necessary to get your app
 * You can optionally pass min or max as URL parameter just like 
 
 http://localhost/test-segment/min
+
 http://localhost/test-segment/max
 
 ### Contribution guidelines ###
