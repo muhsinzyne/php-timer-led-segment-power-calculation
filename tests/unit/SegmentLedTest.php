@@ -5,7 +5,8 @@ use app\models\SegmentLed;
 class SegmentLedTest extends PHPUnit_Framework_TestCase {
 	public $segment;
 	
-	public function setUp() {
+	public function setUp() 
+	{
 		$this->segment = new SegmentLed();
 	}
 
